@@ -1,6 +1,6 @@
 /*
 	Name: Solutions for the graded semantics of AAFs
-	Author: Lixing Tan and Chao Zhuo
+	Author: Lixing Tan
 	Date: 2021/4/30
 	Description: cf, na, ad, co, gr, pr and stb
 */
